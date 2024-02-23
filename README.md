@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vanessa</h1>
-<h3 align="center">A passionate full stack developer from Argentina, currently living in Spain!</h3>
+<h1 >Hi 👋, I'm Vanessa</h1>
+<h3>A passionate full stack developer from Argentina, currently living in Spain!</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/vanerezk](https://github.com/vanerezk)
 
