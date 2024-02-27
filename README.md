@@ -1,6 +1,8 @@
 <h1 >Hi 👋, I'm Vanessa</h1>
 <h3>A passionate full stack developer from Argentina, currently living in Spain!</h3>
 
+<p>A highly motivated, quick learner and proactive with a strong interest in software and technology. I am always looking for new tools and programs to help me develop complex and comprehensive products.</p>
+
 - 👨‍💻 All of my projects are available at [https://github.com/vanerezk](https://github.com/vanerezk)
 
 - 📫 How to reach me **rezkvane@gmail.com**
